@@ -2,7 +2,7 @@ type: http_request
 model: http_request
 id: rq_YxWQfuSZRd
 createdAt: 2026-01-03T22:11:25.076780
-updatedAt: 2026-01-03T22:11:25.076781
+updatedAt: 2026-01-05T14:15:37.772761
 workspaceId: wk_3Po5bHFKhW
 folderId: null
 authentication: {}
@@ -35,6 +35,6 @@ headers:
   id: null
 method: POST
 name: ''
-sortPriority: 0.0
+sortPriority: 2000.0
 url: https://httpbin.org/post
 urlParameters: []

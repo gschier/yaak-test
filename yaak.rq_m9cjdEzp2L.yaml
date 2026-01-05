@@ -2,7 +2,7 @@ type: http_request
 model: http_request
 id: rq_m9cjdEzp2L
 createdAt: 2025-12-20T16:19:01.360851
-updatedAt: 2025-12-20T23:24:50.371890
+updatedAt: 2026-01-05T14:15:37.775842
 workspaceId: wk_3Po5bHFKhW
 folderId: null
 authentication: {}
@@ -30,6 +30,6 @@ headers:
   id: tH6MzupAKq
 method: POST
 name: Basic Copy
-sortPriority: 1000.0
+sortPriority: 6000.0
 url: http://yaak.app
 urlParameters: []

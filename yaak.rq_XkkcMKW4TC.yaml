@@ -1,0 +1,27 @@
+type: http_request
+model: http_request
+id: rq_XkkcMKW4TC
+createdAt: 2025-12-21T23:20:30.034256
+updatedAt: 2025-12-28T16:30:05.298641
+workspaceId: wk_3Po5bHFKhW
+folderId: fl_vuWePDEPuL
+authentication: {}
+authenticationType: none
+body:
+  filePath: /Users/gschier/Desktop/IMG_6096.jpeg
+bodyType: binary
+description: ''
+headers:
+- enabled: true
+  name: ''
+  value: ''
+  id: Zdzwas4ZQI
+- enabled: true
+  name: Content-Type
+  value: image/jpeg
+  id: pHxQWrpnb9
+method: POST
+name: Binary File Copy
+sortPriority: 1000.001
+url: localhost:9444/x/echo
+urlParameters: []

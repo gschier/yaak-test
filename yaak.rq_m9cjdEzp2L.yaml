@@ -1,0 +1,35 @@
+type: http_request
+model: http_request
+id: rq_m9cjdEzp2L
+createdAt: 2025-12-20T16:19:01.360851
+updatedAt: 2025-12-20T23:24:50.371890
+workspaceId: wk_3Po5bHFKhW
+folderId: null
+authentication: {}
+authenticationType: none
+body:
+  form:
+  - enabled: true
+    id: KTZs49yKGZ
+    name: Hello
+    value: world
+  - enabled: true
+    id: nsteRbiMxA
+    name: ''
+    value: ''
+bodyType: multipart/form-data
+description: ''
+headers:
+- enabled: true
+  name: ''
+  value: ''
+  id: PtwaYkb3Ni
+- enabled: true
+  name: Content-Type
+  value: multipart/form-data
+  id: tH6MzupAKq
+method: POST
+name: Basic Copy
+sortPriority: 1000.0
+url: http://yaak.app
+urlParameters: []

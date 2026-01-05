@@ -1,0 +1,30 @@
+type: workspace
+model: workspace
+id: wk_3Po5bHFKhW
+createdAt: 2025-11-27T14:28:12.579720
+updatedAt: 2025-12-20T23:25:31.458287
+authentication: {}
+authenticationType: null
+description: ''
+headers:
+- enabled: true
+  name: User-Agent
+  value: yaak
+  id: EN5TXRbweg
+- enabled: true
+  name: Accept
+  value: '*/*'
+  id: YagADnH2hR
+- enabled: false
+  name: Accept-Encoding
+  value: zstd
+  id: qsKsH33cKV
+- enabled: true
+  name: ''
+  value: ''
+  id: qnemZMyTXk
+name: Testing
+encryptionKeyChallenge: eUE0azNuQwHCXcy3YqGcNigHsX0nwjgIVN2Vpfyd+5atsW7W0u5Ndyw2AbeiW20Xhccks0kxlc3SovS9I03xO9VnjHzbdaPWqBwiV2nSMYKh2AgZccNRlDPzUA0SPV34FQI=
+settingValidateCertificates: true
+settingFollowRedirects: true
+settingRequestTimeout: 0

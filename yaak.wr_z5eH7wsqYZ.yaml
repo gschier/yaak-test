@@ -1,0 +1,16 @@
+type: websocket_request
+model: websocket_request
+id: wr_z5eH7wsqYZ
+createdAt: 2025-12-28T22:35:50.122606
+updatedAt: 2025-12-28T22:47:10.499007
+workspaceId: wk_3Po5bHFKhW
+folderId: fl_vuWePDEPuL
+authentication: {}
+authenticationType: null
+description: ''
+headers: []
+message: ''
+name: ''
+sortPriority: 0.0
+url: tsra
+urlParameters: []

@@ -1,0 +1,40 @@
+type: http_request
+model: http_request
+id: rq_YxWQfuSZRd
+createdAt: 2026-01-03T22:11:25.076780
+updatedAt: 2026-01-03T22:11:25.076781
+workspaceId: wk_3Po5bHFKhW
+folderId: null
+authentication: {}
+authenticationType: null
+body:
+  text: |-
+    {
+      "name": "John Doe",
+      "email": "john@example.com",
+      "age": ""
+    }
+bodyType: application/json
+description: ''
+headers:
+- enabled: true
+  name: User-Agent
+  value: yaak
+  id: null
+- enabled: true
+  name: Accept
+  value: '*/*'
+  id: null
+- enabled: true
+  name: Content-Type
+  value: application/json
+  id: null
+- enabled: true
+  name: Authorization
+  value: Bearer heltsr
+  id: null
+method: POST
+name: ''
+sortPriority: 0.0
+url: https://httpbin.org/post
+urlParameters: []

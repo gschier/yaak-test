@@ -1,0 +1,26 @@
+type: http_request
+model: http_request
+id: rq_h4jbwqaXkc
+createdAt: 2025-12-22T22:02:15.046853
+updatedAt: 2025-12-23T13:59:40.151363
+workspaceId: wk_3Po5bHFKhW
+folderId: fl_vuWePDEPuL
+authentication: {}
+authenticationType: null
+body: {}
+bodyType: null
+description: ''
+headers:
+- enabled: true
+  name: Hello
+  value: World
+  id: skqWvD8thS
+- enabled: true
+  name: How
+  value: Are you doing ${[ base64.encode(encoding='base64', value='tsratars') ]}
+  id: A9e4gmN0gt
+method: GET
+name: ''
+sortPriority: 1000.004
+url: https://schier.co
+urlParameters: []

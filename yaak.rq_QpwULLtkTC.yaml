@@ -1,0 +1,29 @@
+type: http_request
+model: http_request
+id: rq_QpwULLtkTC
+createdAt: 2026-01-01T18:13:36.657356
+updatedAt: 2026-01-02T17:40:31.028487
+workspaceId: wk_3Po5bHFKhW
+folderId: null
+authentication:
+  token: ${[ secure(value=b64'WUVOQ19lVUUwYXpOdVF3RlgxZGU0S0twRldWYUo1dTVLUEcxVzIrT0hYdHdJSHQwS2JOM0RxazhCellONTdwaVBTZDRQSW8ycFg4T0o') ]}
+authenticationType: bearer
+body:
+  text: |-
+    {
+      "name": "John Doe",
+      "email": "john@example.com",
+      "age": ""
+    }
+bodyType: application/json
+description: ''
+headers:
+- enabled: true
+  name: Content-Type
+  value: application/json
+  id: null
+method: POST
+name: Dummy Request
+sortPriority: 0.0
+url: https://httpbin.org/post
+urlParameters: []

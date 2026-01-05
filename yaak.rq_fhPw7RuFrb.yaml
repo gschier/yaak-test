@@ -1,0 +1,92 @@
+type: http_request
+model: http_request
+id: rq_fhPw7RuFrb
+createdAt: 2025-12-28T21:28:09.474865
+updatedAt: 2025-12-28T21:28:09.474867
+workspaceId: wk_3Po5bHFKhW
+folderId: fl_vuWePDEPuL
+authentication: {}
+authenticationType: null
+body:
+  form:
+  - enabled: true
+    name: username
+    value: jsgj
+  - enabled: true
+    name: password
+    value: '654321'
+  - enabled: true
+    file: 副本制造业贴息(3).xlsx
+    name: captcha
+bodyType: multipart/form-data
+description: ''
+headers:
+- enabled: true
+  name: Accept
+  value: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+  id: null
+- enabled: true
+  name: Accept-Language
+  value: zh-CN,zh;q=0.9
+  id: null
+- enabled: true
+  name: Cache-Control
+  value: max-age=0
+  id: null
+- enabled: true
+  name: Connection
+  value: keep-alive
+  id: null
+- enabled: true
+  name: Content-Type
+  value: multipart/form-data; boundary=----WebKitFormBoundaryHwsXKi4rKA6P5VBd
+  id: null
+- enabled: true
+  name: Origin
+  value: http://localhost:8080
+  id: null
+- enabled: true
+  name: Referer
+  value: http://localhost:8080/system
+  id: null
+- enabled: true
+  name: Sec-Fetch-Dest
+  value: document
+  id: null
+- enabled: true
+  name: Sec-Fetch-Mode
+  value: navigate
+  id: null
+- enabled: true
+  name: Sec-Fetch-Site
+  value: same-origin
+  id: null
+- enabled: true
+  name: Sec-Fetch-User
+  value: ?1
+  id: null
+- enabled: true
+  name: Upgrade-Insecure-Requests
+  value: '1'
+  id: null
+- enabled: true
+  name: User-Agent
+  value: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+  id: null
+- enabled: true
+  name: sec-ch-ua
+  value: '"Google Chrome";v="143", "Chromium";v="143", "Not A(Brand";v="24"'
+  id: null
+- enabled: true
+  name: sec-ch-ua-mobile
+  value: ?0
+  id: null
+- enabled: true
+  name: sec-ch-ua-platform
+  value: '"macOS"'
+  id: null
+method: POST
+name: ''
+sortPriority: 0.0
+url: http://localhost:8080/system
+urlParameters: []

@@ -1,0 +1,32 @@
+type: http_request
+model: http_request
+id: rq_uQBnKRc6m9
+createdAt: 2025-12-13T15:56:57.631325
+updatedAt: 2026-01-01T16:01:12.343207
+workspaceId: wk_3Po5bHFKhW
+folderId: null
+authentication:
+  headerPrefix: ''
+authenticationType: oauth2
+body:
+  text: |-
+    {
+      "foo": "bar",
+      "hi": [123,4,234,true,false,null]
+    }
+bodyType: application/json
+description: ''
+headers:
+- enabled: true
+  name: ''
+  value: ''
+  id: Zdzwas4ZQI
+- enabled: true
+  name: Content-Type
+  value: application/json
+  id: yngiU8d2kf
+method: POST
+name: Long
+sortPriority: 2000.0
+url: https://web.yaak.railway.localhost/x/sleep/5000
+urlParameters: []

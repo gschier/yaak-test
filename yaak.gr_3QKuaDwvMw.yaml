@@ -1,0 +1,17 @@
+type: grpc_request
+model: grpc_request
+id: gr_3QKuaDwvMw
+createdAt: 2025-12-28T22:46:40.349641
+updatedAt: 2025-12-28T22:46:40.349650
+workspaceId: wk_3Po5bHFKhW
+folderId: fl_vuWePDEPuL
+authenticationType: null
+authentication: {}
+description: ''
+message: ''
+metadata: []
+method: null
+name: ''
+service: null
+sortPriority: 1000.0
+url: ''

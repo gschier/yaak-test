@@ -1,0 +1,35 @@
+type: http_request
+model: http_request
+id: rq_8DFLcmTqtJ
+createdAt: 2025-12-20T16:19:03.319884
+updatedAt: 2025-12-21T21:38:20.519932
+workspaceId: wk_3Po5bHFKhW
+folderId: null
+authentication: {}
+authenticationType: none
+body:
+  form:
+  - enabled: true
+    id: 84JyawhGnt
+    name: foo
+    value: bar
+  - enabled: true
+    id: BnXPs6jjZb
+    name: ''
+    value: ''
+bodyType: null
+description: ''
+headers:
+- enabled: true
+  name: foo
+  value: bar
+  id: aUJanrbeRW
+- enabled: true
+  name: ''
+  value: ''
+  id: IIvYCrnuzk
+method: GET
+name: Basic Copy 2
+sortPriority: 1000.001
+url: localhost:9444/changelog/2025.4.0
+urlParameters: []

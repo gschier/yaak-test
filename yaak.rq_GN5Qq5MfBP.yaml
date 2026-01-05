@@ -1,0 +1,75 @@
+type: http_request
+model: http_request
+id: rq_GN5Qq5MfBP
+createdAt: 2025-12-28T21:29:02.824925
+updatedAt: 2025-12-28T21:59:56.154059
+workspaceId: wk_3Po5bHFKhW
+folderId: fl_vuWePDEPuL
+authentication: {}
+authenticationType: null
+body:
+  text: ''
+bodyType: application/json
+description: ''
+headers:
+- enabled: true
+  name: Accept
+  value: application/json, text/plain, */*
+  id: null
+- enabled: true
+  name: Accept-Language
+  value: zh-CN,zh;q=0.9,en;q=0.8,en-US;q=0.7
+  id: null
+- enabled: true
+  name: Authorization-OAuth2
+  value: ''
+  id: null
+- enabled: true
+  name: Authorization-OAuth2-Client
+  value: ''
+  id: null
+- enabled: true
+  name: Authorization-OAuth2-Refresh
+  value: ''
+  id: null
+- enabled: true
+  name: Cache-Control
+  value: no-cache
+  id: null
+- enabled: true
+  name: Connection
+  value: keep-alive
+  id: null
+- enabled: true
+  name: Content-Type
+  value: application/json;charset=UTF-8
+  id: null
+- enabled: true
+  name: Origin
+  value: http://demo.com
+  id: null
+- enabled: true
+  name: Pragma
+  value: no-cache
+  id: null
+- enabled: true
+  name: Referer
+  value: http://demo.com/workflow
+  id: null
+- enabled: true
+  name: User-Agent
+  value: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+  id: null
+- enabled: true
+  name: token
+  value: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJsb2dpbiIsImp0aSI6ImYyZTg3ODc1LWE5MjEtNDU1OC04MTRiLWRiY2I5ZmQyNTY3OCIsImlhdCI6MTc2MTk2NDAxNywiZXhwIjoxNzYyMDAwMDE3LCJsb2dpbklkIjoiMTIzIiwiYWNjb3VudCI6ImFkbWluIiwiZm9yY2VSZXNldFB3ZCI6ZmFsc2UsInJvbGVJZHMiOiIxMjgxNzIzOTk2MzE0NjI0MDAiLCJvcmdJZHMiOiIxIiwidXNlcklwIjoiMTkyLjE2OC4xLjIxOSIsImxvZ2luQ2hhbm5lbCI6InBjIiwidGVuYW50SWQiOiIxIiwic2Vzc2lvbklkIjoiYjIzNGU5ZGEtMThkZi00MzgyLWE4OTEtZTg2ZDgzOWU5YjU3MTc2MTk2NDAxNzIxOSJ9.3UkKDsByiKwHOxaoaqRwdUe-KEPYBTxZ2IVHTFijZ-4
+  id: null
+- enabled: true
+  name: Cookie
+  value: _ga=GA1.1.251309473.1744790687; _ga_0C4M1PWYZ7=GS2.1.s1758091335$o31$g1$t1758091357$j38$l0$h0; _ga_T11SF3WXX2=GS2.1.s1758091336$o31$g1$t1758091357$j39$l0$h0; _ga_K2SPJK2C73=GS2.1.s1758091336$o31$g1$t1758091357$j39$l0$h0
+  id: null
+method: POST
+name: ''
+sortPriority: 0.0
+url: http://demo.com/demo1
+urlParameters: []

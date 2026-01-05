@@ -1,0 +1,30 @@
+type: http_request
+model: http_request
+id: rq_UYLbZUv4XM
+createdAt: 2025-12-21T23:20:53.214592
+updatedAt: 2025-12-21T23:20:53.214595
+workspaceId: wk_3Po5bHFKhW
+folderId: fl_vuWePDEPuL
+authentication: {}
+authenticationType: none
+body:
+  text: |-
+    {
+      "json": true
+    }
+bodyType: application/json
+description: ''
+headers:
+- enabled: true
+  name: ''
+  value: ''
+  id: Zdzwas4ZQI
+- enabled: true
+  name: Content-Type
+  value: application/json
+  id: kmCb3xk5S6
+method: POST
+name: Binary File Copy 2
+sortPriority: 1000.002
+url: localhost:9444/x/echo-headers
+urlParameters: []

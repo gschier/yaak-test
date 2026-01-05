@@ -1,0 +1,26 @@
+type: http_request
+model: http_request
+id: rq_ZDPvkx3sy4
+createdAt: 2025-12-22T13:59:05.967590
+updatedAt: 2025-12-22T13:59:08.058961
+workspaceId: wk_3Po5bHFKhW
+folderId: fl_vuWePDEPuL
+authentication: {}
+authenticationType: none
+body:
+  text: |-
+    {
+      "json": true
+    }
+bodyType: null
+description: ''
+headers:
+- enabled: true
+  name: ''
+  value: ''
+  id: Zdzwas4ZQI
+method: POST
+name: Binary File Copy 3
+sortPriority: 1000.003
+url: localhost:9444/x/echo-headers
+urlParameters: []
